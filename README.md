@@ -12,7 +12,7 @@
     <img src="Circuit Diagram For Breadboard.jpg" width="800">
     <h3>Below is the video demonstration on FPGA:</h3>
     <video width="800px" controls>
-      <source src="https://github.com/EPICPJM05/whack-a-mole/blob/main/whack-a-mole-FPGA.mp4" type="video/mp4">
+      <source src="whack-a-mole-FPGA.mp4" type="video/mp4"/>
     </video>
   </body>
 </html>
