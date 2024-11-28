@@ -11,7 +11,7 @@
     <h3>Below is the circuit Diagram of Whack a mole game:</h3>
     <img src="Circuit Diagram For Breadboard.jpg" width="800">
     <h3>Below is the video demonstration on FPGA:</h3>
-    <video controls width="800">
+    <video controls width="400">
       <source src="whack-a-mole-FPGA.mp4" type="video/mp4"/>
     </video>
   </body>
